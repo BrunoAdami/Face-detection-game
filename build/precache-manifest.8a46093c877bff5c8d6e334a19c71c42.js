@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
-    "revision": "5246bc5bed74469124e0",
-    "url": "/Face-recognition-app/static/css/main.1bc3f196.chunk.css"
+    "revision": "78c31f886b058e47e6bc",
+    "url": "/Face-recognition-app/static/css/main.d84b0c45.chunk.css"
   },
   {
-    "revision": "5246bc5bed74469124e0",
-    "url": "/Face-recognition-app/static/js/main.7b234111.chunk.js"
+    "revision": "78c31f886b058e47e6bc",
+    "url": "/Face-recognition-app/static/js/main.f8e41243.chunk.js"
   },
   {
     "revision": "f085ba2f4baf410752f0",
     "url": "/Face-recognition-app/static/js/runtime~main.117cc877.js"
   },
   {
-    "revision": "b59bf5baf549566a6358",
-    "url": "/Face-recognition-app/static/css/2.404edca3.chunk.css"
+    "revision": "a196f980b60645c19fe1",
+    "url": "/Face-recognition-app/static/css/2.dec2db43.chunk.css"
   },
   {
-    "revision": "b59bf5baf549566a6358",
+    "revision": "a196f980b60645c19fe1",
     "url": "/Face-recognition-app/static/js/2.e6d836fe.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Face-recognition-app/static/media/face.ab41af34.png"
   },
   {
-    "revision": "5e0c3c83177b0cead19c042b976ed013",
+    "revision": "04e24f915ca36237ccad863b3f9b0d41",
     "url": "/Face-recognition-app/index.html"
   }
 ];
